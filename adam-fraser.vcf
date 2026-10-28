@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Fraser;Adam;;;
+FN:Adam Fraser
+ORG:Ontario Non-Profit Housing Association
+TITLE:Data & Analytics
+EMAIL;TYPE=WORK:adam.fraser@onpha.org
+URL:https://onpha.on.ca/community-housing-market-data/
+NOTE:LEMR demo: https://onpha.github.io/community-housing-acquisitions-tool/
+END:VCARD
