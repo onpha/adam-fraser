@@ -1,4 +1,6 @@
 const video = document.getElementById('lemr-video');
+video.defaultPlaybackRate = 2.5;
+video.playbackRate = 2.5;
 const toggle = document.querySelector('.video-toggle');
 const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
 let manuallyPaused = false;
